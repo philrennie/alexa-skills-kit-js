@@ -5,7 +5,7 @@
       "slots": [
         {
           "name": "Answer",
-          "type": "LIST_OF_ANSWERS"
+          "type": "AMAZON.NUMBER"
         }
       ]
     },
@@ -14,7 +14,7 @@
       "slots": [
         {
           "name": "Answer",
-          "type": "LIST_OF_ANSWERS"
+          "type": "AMAZON.NUMBER"
         }
       ]
     },
